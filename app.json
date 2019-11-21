@@ -1,4 +1,28 @@
 {
   "name": "pro1",
-  "displayName": "pro1"
+  "displayName": "pro1",
+  "expo": {
+    "name": "pro1",
+    "slug": "pro1",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.test.test",
+      "supportsTablet": true
+    },
+    "description": ""
+  }
 }
