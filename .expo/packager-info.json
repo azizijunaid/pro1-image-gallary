@@ -1,9 +1,9 @@
 {
+  "packagerPort": 19001,
+  "packagerPid": 17244,
   "devToolsPort": 19003,
   "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 14560,
-  "expoServerNgrokUrl": "https://vz-hpa.azizijunaid.pro1.exp.direct",
-  "packagerNgrokUrl": "https://packager.vz-hpa.azizijunaid.pro1.exp.direct",
-  "ngrokPid": 19836
+  "expoServerNgrokUrl": "https://7k-dhn.azizijunaid.pro1.exp.direct",
+  "packagerNgrokUrl": "https://packager.7k-dhn.azizijunaid.pro1.exp.direct",
+  "ngrokPid": 18344
 }
